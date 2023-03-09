@@ -1,3 +1,3 @@
 #!/bin/bash
 cd ..
-ln -s /bin/ls ____ls__
+ln -s /bin/ls __ls__

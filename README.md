@@ -1,1 +1,1 @@
-repository contains scripts from the shell basics project
+scripts for shell rwdirectoons project
